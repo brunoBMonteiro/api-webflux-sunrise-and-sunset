@@ -26,7 +26,7 @@ Cenário: Obter localização
 
 - https://spring.io/blog/2016/09/22/new-in-spring-5-functional-web-framework
 - https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update
-- http://junit.org/junit5/docs/current/user-guide/#running-tests-build-maven
+- https://junit.org/junit5/docs/current/user-guide/#running-tests-build-gradle
 - https://github.com/junit-team/junit5-samples
 - https://developers.google.com/maps/documentation/geocoding/intro
 - https://sunrise-sunset.org/api
