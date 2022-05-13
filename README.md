@@ -30,4 +30,3 @@ Cenário: Obter localização
 - https://github.com/junit-team/junit5-samples
 - https://developers.google.com/maps/documentation/geocoding/intro
 - https://sunrise-sunset.org/api
-- https://en.wikipedia.org/wiki/ISO_8601
